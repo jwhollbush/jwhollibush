@@ -1,14 +1,9 @@
-#
+
 Gitbhub profile of JW Hollibush Founder of Corpsehustler Skateboards and Flow2Pro dapp
-#
 
-##
 You can help passively Crowdfund this bootstrap by pasting the following code snippet into your web pages head tag as described below.
-##
 
-###
 Put this code before the
-###
 
 ```
 </body>
@@ -22,13 +17,13 @@ tag in your website after the
 ```
  tag to enable background mining:
 
-####change throttle number from zero=100% to between 1 and 99 to limit free cpu usage of user's cpu
-####
+change throttle number from zero=100% to between 1 and 99 to limit free cpu usage of user's cpu
 
 
-#####See how it appears here at:#####
 
-######<a href=https://djjizzygymsock.blogspot.com>My associate's donated blog. Big thanks to DJ Jizzy Gymsock and affiliated "artists"</a>######
+See how it appears here at:
+
+<a href=https://djjizzygymsock.blogspot.com>My associate's donated blog. Big thanks to DJ Jizzy Gymsock and affiliated "artists"</a>######
 
 Put this code before 
 
