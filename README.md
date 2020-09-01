@@ -23,9 +23,8 @@ change throttle number from zero=100% to between 1 and 99 to limit free cpu usag
 
 See how it appears here at:
 
-<a href=https://djjizzygymsock.blogspot.com>My associate's donated blog. Big thanks to DJ Jizzy Gymsock and affiliated "artists"</a>######
-
-Put this code before 
+<a href=https://djjizzygymsock.blogspot.com>My associate's donated blog. Big thanks to DJ Jizzy Gymsock and affiliated "artists"</a>
+Put this code before site's
 
 ```
 </body> 
